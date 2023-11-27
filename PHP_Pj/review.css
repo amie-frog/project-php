@@ -1,0 +1,16 @@
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    
+   
+  }
+  table{
+    
+    color:white;
+  }
+  th,td {
+    text-align: center;
+    padding: 15px;
+  }
+  
+  
